@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+ultralytics
+opencv-python
+requests
+numpy
+pandas
+lap
